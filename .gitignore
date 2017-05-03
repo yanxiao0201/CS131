@@ -1,0 +1,11 @@
+*.docx
+*.txt
+*.txt.gdoc
+*.pptx
+*.class
+*.mse
+*.problems
+*.jar
+*.pyc
+*.tgz
+*.log
